@@ -1,1 +1,1 @@
-/Users/aluno.sesipaulista/Desktop/Login/img/icon_img.png
+self.username_input= TextInput(hint_text='Usuário', background_color=(0.15, 0.15, 0.15, 1), multiline=False)
